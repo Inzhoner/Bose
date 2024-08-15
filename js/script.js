@@ -1,3 +1,4 @@
+//+ burger menu
 document.addEventListener("DOMContentLoaded", () => {
   const burgerMenu = document.getElementById("burger-menu");
   const closeMenu = document.getElementById("close-menu");
